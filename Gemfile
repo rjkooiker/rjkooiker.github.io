@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+# have to specify jekyll version for compatibility with font-awesome
+
 gem "jekyll", "~> 3.9.0"
 
 gem 'jekyll-font-awesome-sass'
