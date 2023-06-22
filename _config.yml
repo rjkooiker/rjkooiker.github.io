@@ -6,6 +6,14 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+# using font awesome
+
+gems:
+  - jekyll-font-awesome-sass
+
+font-awesome:
+  assets: true
+
 # Layout
 
 show_excerpts: false        # show article excerpts on the home page
