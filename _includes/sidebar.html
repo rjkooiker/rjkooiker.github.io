@@ -1,12 +1,12 @@
-<link rel="stylesheet" href="{{ "/assets/css/sidebar.sass" | relative_url }}" media="screen and (min-width: 70em)">
+<link rel="stylesheet" href="{{ "/assets/css/sidebar.sass" | relative_url }}" type="text/css" media="screen and (min-width: 70em)">
 <aside style="display: none;">
-  <nav>
+  <nav role="navigation">
     {%- for item in site.navigation -%}
     {%- assign node = site.pages | where: "name", item.file | first -%}
     {%- assign url = item.url | default: node.url -%}
     {%- assign title = item.title | default: node.title -%}
     {%- assign icon = item.icon | default: item.sidebaricon -%}
-    <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
+    <a aria-label="{{ title }}" href="{{ url | relative_url }}" tabindex="0">
       <svg aria-hidden="true" class="icon">
         <use xlink:href="/assets/fontawesome/icons/{{ icon }}.svg"></use>
       </svg>
@@ -18,7 +18,7 @@
     {%- assign url = item.url | default: node.url -%}
     {%- assign title = item.title | default: node.title -%}
     {%- assign icon = item.icon | default: item.sidebaricon -%}
-    <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
+    <a aria-label="{{ title }}" href="{{ url | relative_url }}" tabindex="0">
       <svg aria-hidden="true" class="icon">
         <use xlink:href="/assets/fontawesome/icons/{{ icon }}.svg"></use>
       </svg>
