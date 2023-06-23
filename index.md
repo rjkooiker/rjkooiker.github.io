@@ -13,7 +13,9 @@ I'm currently a PhD candidate at [Yale University](https://complit.yale.edu/peop
 
 To make my work more accessible, I'm creating a website called Carifesta Stories. This website will feature interactive maps, timelines, an oral history archive, and other audiovisual content. A preview of what that might look like is this interactive [Story Map](https://storymaps.arcgis.com/stories/6022d40207de4b9199c3eaa07aa2f024).
 
-I'm busy building relationships with librarians, archivists, community storytellers, and other researchers to make Carifesta Stories a reality.
+I've also begun keeping a database of archives around the world that contain Carifesta materials. I've mapped them [here](https://rjkooiker.shinyapps.io/carifesta-archives/).
+
+I'm building relationships with librarians, archivists, community storytellers, and other researchers to make Carifesta Stories a reality.
 
 On this page you'll find my updates about the project. If I'm going to help steward these stories, accountability and transparency are indispensable.
 
