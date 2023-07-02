@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About me", icon: address-card} # this is the front page
-  - {file: "_posts/", title: "Posts", icon: documents} #Here I'll have my posts
+  - {file: "blog.md", title: "Posts", icon: documents} #Here I'll have my posts
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rkooiker18@gmail.com"}

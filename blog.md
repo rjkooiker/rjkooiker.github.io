@@ -3,8 +3,10 @@ layout: default
 title: "Blog"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+## My blog posts
+
+{% for post in site.posts %}
+  <h2>{{ post.date }}: {{ post.title }}</h2>
+  <p>{{ post.excerpt }}</p>
+  <p><a href="{{ post.url }}">Read more</a></p>
+{% endfor %}
