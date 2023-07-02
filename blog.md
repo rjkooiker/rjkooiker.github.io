@@ -2,9 +2,6 @@
 layout: page
 title: "Posts"
 ---
-
-## My blog posts
-
 {% for post in site.posts %}
   <h2>{{ post.date }}: {{ post.title }}</h2>
   <p>{{ post.excerpt }}</p>
