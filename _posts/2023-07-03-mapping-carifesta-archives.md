@@ -1,6 +1,6 @@
 ---
 title: "Mapping Carifesta Archives"
-layout: post
+layout: "post"
 excerpt_separator: <!--more-->
 ---
 ## Where is your archive?

@@ -1,10 +1,10 @@
 title: "René Kooiker"
 author: "René J. Kooiker"
 description: "Made with Jekyll"
-permalink: /:title/
+permalink: /yyyy/mm/dd/title
 lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+excerpt_separator: <!--more-->
+date_format: yyyy-mm-dd
 
 # Layout
 

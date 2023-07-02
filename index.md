@@ -22,11 +22,3 @@ On this page you'll find my updates about the project. If I'm going to help stew
 My [Linktree](https://linktr.ee/renekooiker) has all my publications. Check out my traditional cv and resume here.
 
 Let's chat! Find my email, LinkedIn, and GitHub in the sidebar.
-
-## My blog posts
-
-{% for post in site.posts | sort: 'date' %}
-  <h2>{{ post.date }}: {{ post.title }}</h2>
-  {{ post.excerpt }}
-  <p><a href="{{ post.url }}">Read more</a></p>
-{% endfor %}
