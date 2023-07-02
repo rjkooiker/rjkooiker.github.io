@@ -2,7 +2,6 @@
 title: Mapping Carifesta Archives
 layout: post
 excerpt_separator: <!--more-->
-permalink: "/test"
 ---
 ## Where is your archive?
 
