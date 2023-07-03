@@ -23,7 +23,7 @@ Perhaps I have outdated views on what historians do, but I presume they often do
 
 Whether we say so or not, these are the implicit rules of the game we play. But the particular nature of 'my' archive--that of the Caribbean Festival of the Arts--prevents me from playing the usual game. Maybe that's a good thing.
 
-## There is no Carifesta archive.
+### There is no Carifesta archive.
 
 You might presume that the Carifesta festivals would already have their own archive somewhere. As a researcher, I could then travel there and spend a few weeks combing through it. That idea quickly falls apart. If any organization can be said to preside over Carifesta, it's CARICOM (the Caribbean Community), a supranational organization that includes most of the anglophone and some hispanophone Caribbean countries. But they have not kept anything like a consistent record of the festivals over the years. Those records, if they have been kept at all, remain in each of the host countries--of which there have been many throughout the region. 
 
