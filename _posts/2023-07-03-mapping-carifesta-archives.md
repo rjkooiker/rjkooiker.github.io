@@ -12,12 +12,7 @@ In response to those questions, I made my map of Carifesta archives, which you c
 
 <!--more-->
 
-<html>
-<head><title>Map of Carifesta Archives</title></head>
-<body>
-<iframe id="example1" src="https://rjkooiker.shinyapps.io/carifesta-archives/" style="border: none; width: 100%; height: 850px" frameborder="0"></iframe>
-</body>
-</html>
+<iframe height="400" width="100%" frameborder="no" src="https://rjkooiker.shinyapps.io/carifesta-archives/"> </iframe>
 
 Perhaps I have outdated views on what historians do, but I presume they often do often have one or several particular archive and speak of them in these terms. You might go to study the papers of person X or dig through the records of organization Y. To declare something one's archive is to claim a kind of possession over it. As a historian you might claim a particular archive to set yourself apart from the *other* historians, who have not (yet) studied it. That's how you set yourself up to compete for academic prestige.
 
