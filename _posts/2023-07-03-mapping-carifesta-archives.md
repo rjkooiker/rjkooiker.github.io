@@ -7,7 +7,17 @@ layout: post
 Or: What's your archive? 
 
 These are questions I often get asked by fellow researchers and academics--especially historians. I forgive them for asking, since I *am* a scholar who works on a historical project, involving the recovery and the telling of a little-known story, the story of the Caribbean Festival of the Arts.
+
+In response to those questions, I made my map of Carifesta archives, which you can find [here](https://rjkooiker.shinyapps.io/carifesta-archives/).
+
 <!--more-->
+
+<html>
+<head><title>Map of Carifesta Archives</title></head>
+<body>
+<iframe id="example1" src="https://rjkooiker.shinyapps.io/carifesta-archives/" style="border: none; width: 100%; height: 850px" frameborder="0"></iframe>
+</body>
+</html>
 
 Perhaps I have outdated views on what historians do, but I presume they often do often have one or several particular archive and speak of them in these terms. You might go to study the papers of person X or dig through the records of organization Y. To declare something one's archive is to claim a kind of possession over it. As a historian you might claim a particular archive to set yourself apart from the *other* historians, who have not (yet) studied it. That's how you set yourself up to compete for academic prestige.
 
