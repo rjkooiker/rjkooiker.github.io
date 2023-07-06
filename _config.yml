@@ -14,10 +14,11 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "About me", icon: address-card} # this is the front page
-  - {file: "blog.html", title: "Posts", icon: file} #Here I'll have my posts
+  - {file: "index.md", title: "About me", icon: address-card} # front page
+  - {file: "blog.html", title: "Blog", icon: file-lines} # Here I'll have my posts
+  - {file: "resume.html", title: "Resume", icon: diploma} # Resume
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+external:                  # sidebar or footer with social links
   - {title: Mail, icon: envelope, url: "mailto:rkooiker18@gmail.com"}
   - {title: GitHub, icon: github, url: "https://github.com/rjkooiker"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/rene-kooiker/"}
