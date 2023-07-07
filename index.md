@@ -19,6 +19,6 @@ I'm building relationships with librarians, archivists, community storytellers, 
 
 On this page you'll find my updates about the project. If I'm going to help steward these stories, accountability and transparency are indispensable.
 
-My [Linktree](https://linktr.ee/renekooiker) has all my publications. Check out my resume [here]().
+My [Linktree](https://linktr.ee/renekooiker) has all my publications. Check out my resume [here](https://rjkooiker.github.io/resume.html).
 
 Let's chat! Find my email, LinkedIn, and GitHub in the sidebar.
