@@ -16,7 +16,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About me", icon: address-card} # front page
   - {file: "blog.html", title: "Blog", icon: pen} # Here I'll have my posts
-  - {file: "/resume.html", title: "Resume", icon: user-graduate} # Resume
+  - {file: "resume.html", title: "Resume", icon: user-graduate} # Resume
 
 external:                  # sidebar or footer with social links
   - {title: Mail, icon: envelope, url: "mailto:rkooiker18@gmail.com"}
