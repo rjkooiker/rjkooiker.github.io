@@ -2,13 +2,13 @@
 title: On Andrew’s Trail, From CAM to Carifesta
 layout: post
 ---
-## A Note on the British Library
+## On Andrew’s Trail, From CAM to Carifesta
 
 This is a blog post I originally wrote for use on the British Library's website, promoting their public launch of the [Andrew Salkey papers](https://blogs.bl.uk/english-and-drama/2019/10/andrew-salkey-a-man-of-many-hats.html). In the aftermath of [devastating ransomware attacks](https://blogs.bl.uk/living-knowledge/2023/12/knowledge-under-attack.html) on the library, the launch has been delayed significantly. I wanted to share my reflections on my archival work in the library to draw attention to one of the many incredible resources endangered by this attack.
 
-![Image of Andrew Salkey at his typewriter. Image taken from the book jacket of The Late Emancipation of Jerry Stover, Salkey's 1968 novel.](https://raw.githubusercontent.com/rjkooiker/rjkooiker.github.io/master/assets/salkey-typewriter.jpg "Andrew Salkey")
+---
 
-### On Andrew’s Trail, From CAM to Carifesta
+![Image of Andrew Salkey at his typewriter. Image taken from the book jacket of The Late Emancipation of Jerry Stover, Salkey's 1968 novel.](https://raw.githubusercontent.com/rjkooiker/rjkooiker.github.io/master/assets/salkey-typewriter.jpg "Andrew Salkey")
 
 I came to the British Library intending to explore Andrew Salkey’s involvement with Carifesta (the Caribbean Festival of the Arts) and the Caribbean Artists Movement (CAM). Carifesta, started in 1972 in Guyana, was the first recurring regional cultural festival that united the Caribbean in all its diversity. Based in London primarily, but with satellite organizations in the Caribbean and elsewhere in England, CAM defined the trajectory of some of the most important writers, artists, and thinkers who have come out of the Caribbean. A founding member, Andrew Salkey was arguably the hub of CAM, as he seemed to know every Caribbean writer or artist who lived in the Britain in the 1960s.
 
