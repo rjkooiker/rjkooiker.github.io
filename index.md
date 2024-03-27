@@ -11,13 +11,15 @@ I believe digital tools can bring academic research out of the ivory tower and i
 
 I'm currently a PhD candidate at [Yale University](https://complit.yale.edu/people/rene-kooiker). My academic research is about Caribbean literature in the 20th century. Specifically, I've been writing about the Caribbean Festival of the Arts (Carifesta), one of the most important cultural events in the region. I wrote an article about the first edition of the festival for the journal [archipelagos](http://archipelagosjournal.org/issue06/kooiker-carifesta.html).
 
-To make my work more accessible, I'm creating a website called Carifesta Stories. This website will feature interactive maps, timelines, an oral history archive, and other audiovisual content. A preview of what that might look like is this interactive [Story Map](https://storymaps.arcgis.com/stories/6022d40207de4b9199c3eaa07aa2f024).
+Based on the results of my dissertation research, I'm building what I call the Carifesta Stories project. This will be a series of websites that feature interactive maps, timelines, oral histories, and other audiovisual content about Carifesta.
 
-I've also begun keeping a database of archives around the world that contain Carifesta materials. I've mapped them [here](https://rjkooiker.shinyapps.io/carifesta-archives/).
+Check out my interactive [Story Map](https://storymaps.arcgis.com/stories/6022d40207de4b9199c3eaa07aa2f024) for an in-depth look at the first Carifesta in 1972.
 
-I'm building relationships with librarians, archivists, community storytellers, and other researchers to make Carifesta Stories a reality.
+Another site, [Women of Carifesta](https://womenofcarifesta.onrender.com), focuses on the contributions of women to Carifesta over the years. This is my collaborative project with the Digital Library of the Caribbean.
 
-On this page you'll find my updates about the project. If I'm going to help steward these stories, accountability and transparency are indispensable.
+Finally, I've built a database to track archives around the world that contain Carifesta materials, which I mapped [here](https://rjkooiker.shinyapps.io/carifesta-archives/).
+
+On my [blog](https://rjkooiker.github.io/blog.html) you'll find my updates about my projects. If I'm going to help steward these stories, accountability and transparency are indispensable.
 
 My [Linktree](https://linktr.ee/renekooiker) has all my publications. Check out my resume [here](https://rjkooiker.github.io/resume.html).
 
