@@ -1,4 +1,4 @@
-title: "René Kooiker"
+title: "René J. Kooiker"
 author: "René J. Kooiker"
 description: "Made with Jekyll"
 lang: "en"
@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
