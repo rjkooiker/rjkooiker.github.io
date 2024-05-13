@@ -23,4 +23,4 @@ On my [blog](https://rjkooiker.github.io/blog.html) you'll find my updates about
 
 My [Linktree](https://linktr.ee/renekooiker) has all my publications. Check out my resume [here](https://rjkooiker.github.io/resume.html).
 
-Let's chat! Find my email, LinkedIn, and GitHub in the sidebar.
+Let's chat! Find my email, LinkedIn, and GitHub below.
