@@ -17,7 +17,7 @@ Check out my interactive [Story Map](https://storymaps.arcgis.com/stories/6022d4
 
 Another site, [Women of Carifesta](https://womenofcarifesta.onrender.com), focuses on the contributions of women to Carifesta over the years. This is my collaborative project with the Digital Library of the Caribbean.
 
-Finally, I've built a database to track archives around the world that contain Carifesta materials, which I mapped [here](https://rjkooiker.shinyapps.io/carifesta-archives/).
+Finally, I've built a database to track archives around the world that contain Carifesta materials, which I mapped [here](https://rjkooiker.github.io/carifesta-archives-map/).
 
 On my [blog](https://rjkooiker.github.io/blog.html) you'll find my updates about my projects. If I'm going to help steward these stories, accountability and transparency are indispensable.
 

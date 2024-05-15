@@ -8,7 +8,7 @@ Or: What's your archive?
 
 These are questions I often get asked by fellow researchers and academics.
 
-In response to those questions, I made my map of Carifesta archives, which you can find [here](https://rjkooiker.shinyapps.io/carifesta-archives/).
+In response to those questions, I made my map of Carifesta archives, which you can find [here](https://rjkooiker.github.io/carifesta-archives-map/).
 
 <!--more-->
 
