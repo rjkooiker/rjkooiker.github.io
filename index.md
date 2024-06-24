@@ -5,7 +5,7 @@ title: ""
 
 My name is René.
 
-<p class="lead"><span class="element subtitle subtitle-typed"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true">|</span></p>
+<p class="lead"><span class="element subtitle subtitle-typed"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
 
 As a PhD candidate at [**Yale University**](https://complit.yale.edu/people/rene-kooiker), my academic research is about Caribbean literature in the 20th century. Specifically, I've been writing about the Caribbean Festival of the Arts (Carifesta), one of the most important cultural events in the region. I wrote an article about the first edition of the festival for the journal [**archipelagos**](http://archipelagosjournal.org/issue06/kooiker-carifesta.html).
 
@@ -19,7 +19,7 @@ Finally, I've built a database to track archives around the world that contain C
 
 On my [**blog**](https://rjkooiker.github.io/blog.html) you'll find my updates about my projects. If I'm going to help steward these stories, accountability and transparency are indispensable.
 
-My [**Linktree**](https://linktr.ee/renekooiker) lists all my publications. Check out my resume [**here**](https://rjkooiker.github.io/resume.html).
+My [**Linktree**](https://linktr.ee/renekooiker) lists all my publications. Check out my resume [**here**](https://rjkooiker.github.io/resume.html) or my cv [**here**](http://rjkooiker.com/cv/kooiker-cv-2024-25.pdf).
 
 Let's chat! Find my email, LinkedIn, and GitHub below.
 
@@ -35,8 +35,8 @@ document.addEventListener('DOMContentLoaded', function() {
       'I am an Assistant Editor at the Yale Review.',
       'I am a freelance writer and translator.'
     ],
-    typeSpeed: 80,
-    backSpeed: 99,
+    typeSpeed: 85,
+    backSpeed: 100,
     backDelay: 1000,
     loop: true,
     smartBackspace: true, // Only backspace what doesn't match the previous string
