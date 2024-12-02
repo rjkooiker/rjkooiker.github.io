@@ -19,7 +19,7 @@ Finally, I've built a database to track archives around the world that contain C
 
 On my [**blog**](https://rjkooiker.github.io/blog.html) you'll find my updates about my projects. If I'm going to help steward these stories, accountability and transparency are indispensable.
 
-My [**Linktree**](https://linktr.ee/renekooiker) lists all my publications. Check out my resume [**here**](https://rjkooiker.github.io/resume.html) or my cv [**here**](http://rjkooiker.com/cv/kooiker-cv-2024-25.pdf).
+My [**Linktree**](https://linktr.ee/renekooiker) lists all my publications. Check out my resume [**here**](http://rjkooiker.com/cv/resume.pdf) or my cv [**here**](http://rjkooiker.com/cv/kooiker-cv-2024-25.pdf).
 
 Let's chat! Find my email, LinkedIn, and GitHub below.
 
